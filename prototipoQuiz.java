@@ -689,7 +689,7 @@ public class prototipoQuiz {
             }
             System.out.println("\n\n\n\n\n\n");
             if (i == 8) {
-                System.out.println("9.Qual animal possui o tempo de vida mais longo?");
+                System.out.println("9.Qual o hábito de vida da helicops infrataeniatus?");
                 System.out.println("a) Terrestre e diurna\r\n"
                         + "b) Terrestre e noturna\r\n"
                         + "c) Aquática e diurna \r\n"
